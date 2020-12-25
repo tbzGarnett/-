@@ -1,8 +1,8 @@
 //
 //  main.cpp
-//  华为机考题
+//  无重复字符的最长字串
 //
-//  Created by 陶炳志 on 2020/11/17.
+//  Created by 陶炳志 on 2020/12/1.
 //
 
 #include <iostream>
